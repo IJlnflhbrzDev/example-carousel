@@ -1,0 +1,16 @@
+body {
+     background-color: black;
+     color: white;
+}
+
+.cell {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 100%;
+}
+
+ img ,.panel-default{
+   width: 100%;
+   height: auto;
+}
